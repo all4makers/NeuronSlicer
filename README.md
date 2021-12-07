@@ -1,5 +1,5 @@
 
-![PrusaSlicer logo](/resources/icons/PrusaSlicer.png?raw=true)
+![PrusaSlicer logo](/resources/icons/NeuronSlicer.png?raw=true)
 
 # NeuronSlicer
 
