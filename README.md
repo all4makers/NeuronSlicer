@@ -3,7 +3,7 @@
 
 # NeuronSlicer
 
-Готовые бинарные файлы Windows доступны на [странице релизом](https://github.com/all4makers/NeuronSlicer/releases) или на сайте [All4makers](https://www.prusa3d.com/drivers/). 
+Готовые бинарные файлы Windows доступны на [странице релизов](https://github.com/all4makers/NeuronSlicer/releases) или на сайте [All4makers](). 
 
 NeuronSlicer берет 3D-модели (STL, OBJ, AMF) и преобразует их в G-код для печати.
 По умолчанию в NeuronSlicer включены профили для 3D-Принтеров Neuron, а также
